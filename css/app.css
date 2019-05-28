@@ -1,0 +1,32 @@
+body {
+  background: url(../img/fondo.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.logo-img{
+  width: 30%;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+
+
+.gastronomia-encabezado {
+    background: #c8281c;
+    opacity: 0.9;
+    min-height: 10vh;
+}
+
+.gastronomia-articulo {
+    background: white;
+    opacity: 0.85;
+}
+
+.gastronomia-articulo {
+  padding-top: 2vh;
+}
